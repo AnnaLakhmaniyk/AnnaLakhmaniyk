@@ -3,7 +3,9 @@ Hi there 👋 I'm Anna
 * 📫 How to reach me: <strong>anya.21.volynets@gmail.com</strong>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnaLakhmaniyk&theme=nord_bright)
+# My stack and tools
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnnaLakhmaniyk&show_icons=true&theme=cobalt">
 
 ### Languages and Frameworks: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,7 +25,6 @@ Hi there 👋 I'm Anna
 ### Libraries:
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 
